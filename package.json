@@ -1,0 +1,21 @@
+{
+	"name": "timelineweb",
+	"private": true,
+	"version": "1.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite --host",
+		"build": "vite build",
+		"preview": "vite preview --host"
+	},
+	"dependencies": {
+		"@11ty/gray-matter": "^3.0.0",
+		"marked": "^18.0.10",
+		"preact": "^10.29.8"
+	},
+	"devDependencies": {
+		"@preact/preset-vite": "^2.10.6",
+		"sass": "^1.103.1",
+		"vite": "^8.2.2"
+	}
+}
