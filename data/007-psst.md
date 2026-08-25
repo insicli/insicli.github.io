@@ -8,4 +8,4 @@ you're hallucinating
 
 ![](images/fire.gif)
 
-<h6 align="center"> jk you're not </h6>
+<h5 align="center"> jk you're not </h5>

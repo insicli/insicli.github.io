@@ -3,6 +3,7 @@ heading: "PhiLia093"
 ---
 
 ![cyrene from hsr](images/CYRENE.png)
+<h6 align="center">cyrene</h6>
 
 _Oh stay true~_
 
