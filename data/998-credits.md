@@ -9,5 +9,7 @@ heading: "credits"
 [7](https://tenor.com/view/excited-fuego-gif-26833875),
 [12](https://danbooru.donmai.us/posts/11496226?q=date%3A2026-06-01),
 [13](https://www.bilibili.com/opus/1188493044427522048),
+[14](https://x.com/geumxxi/status/2097502854630306047),
 [93](https://danbooru.donmai.us/posts/10229899),
+[101](https://x.com/zani_journey/status/2025865416233685420)
 [999](https://www.reddit.com/r/KaoruHanaWaRintoSaku/comments/1vbigwm/kaoruko_by_plsk/)
