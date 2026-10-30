@@ -11,6 +11,9 @@ export default function App() {
 				<p class="site-intro">
 					a collection of things about me, about other things, and random things
 				</p>
+				<p class="site-intro">
+					pending rewrite...i'll keep the aesthetic tho, me likey :3
+				</p>
 			</header>
 
 			<Timeline />
